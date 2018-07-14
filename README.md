@@ -13,6 +13,8 @@ Clone the required repository to the `~/catkin_ws/src` folder. Note that this re
 
 Make sure you have all the dependencies or install them to succesfully use this repository.
 
+<p align="center"><img src="./20180711_072600.gif"></p>
+
 ```sh
 cd ~/catkin_ws/src
 git clone https://github.com/Beshario/udacity-final-home-service-bot
@@ -33,6 +35,5 @@ source devel/setup.bash
 you whichever script you like to run the project on different modes:
 If everything is ready to rock'n'roll, the below is the result of running ./home_service.sh commands (at 5x speed).
 
-<p align="center"><img src="./20180711_072600.gif"></p>
 
 
