@@ -1,6 +1,6 @@
 # Home-Service-Robot
 A robot that utilizes SLAM, localization and autonomous path planning to pick a goal, and deliver it to a drop off location:
-if you a catkin_ws folder then skip the follwoing step.
+if you have a catkin_ws folder then skip the follwoing step.
 however if you do not have an active ROS workspace, you can create one by:
 
 ```sh
