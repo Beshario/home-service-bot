@@ -9,7 +9,7 @@ cd ~/catkin_ws
 catkin_make
 source devel/setup.bash
 ```
-Clone the required repository to the `~/catkin_ws/src` folder. Note that this repository already includes official ROS packages compatible with this repository: [gmapping](https://github.com/ros-perception/slam_gmapping), [turtlebot_teleop](http://wiki.ros.org/turtlebot_teleop), [turtlebot_rviz_launchers](https://github.com/turtlebot/turtlebot_interactions), and [turtlebot_gazebo](https://github.com/turtlebot/turtlebot_simulator). 
+Clone the required repository to the `~/catkin_ws/src` folder. Note that this repository already includes official ROS packages compatible with this repository: [gmapping],[turtlebot_teleop], [turtlebot_rviz_launchers], and [turtlebot_gazebo]. 
 
 Make sure you have all the dependencies or install them to succesfully use this repository.
 
