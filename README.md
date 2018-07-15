@@ -13,7 +13,7 @@ Clone the required repository to the `~/catkin_ws/src` folder. Note that this re
 
 Make sure you have all the dependencies:
 
-<p align="center"><img src="./Home service bot.jpeg	"></p>
+<p align="center"><img src="./Home service bot.jpeg"></p>
 
 
 
