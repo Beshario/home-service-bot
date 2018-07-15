@@ -33,7 +33,7 @@ source devel/setup.bash
 ./src/home_service.sh
 ```
 you whichever script you like to run the project on different modes:
-If everything is ready to rock'n'roll, the below is the result of running ./home_service.sh commands (at 5x speed).
+If everything is ready to launch, the below is the result of running ./home_service.sh commands (at 5x speed).
 
 
 
